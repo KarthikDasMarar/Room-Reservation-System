@@ -1,0 +1,112 @@
+/*index.php*/
+body,html {
+  height: 100%;
+padding-top: 50px;
+}
+
+#wholebody{
+  background-color: #caf7e3;
+}
+
+h1{
+
+  position: absolute;
+  left: 100px;
+}
+.title-name{
+    font-family: 'Sacramento',cursive;
+    font-size: 8.5rem;
+}
+.title-subhead{
+  font-family: 'Merryweather';
+
+}
+h3{
+  position: absolute;
+  left: 150px;
+  top: 100px;
+}
+img{
+  width: 50%;
+  position: absolute;
+  right: 100px;
+border-radius: 50%; 
+}
+.navbar,.nav,.navbar-nav{
+  font-size: 1.5rem;
+  color: black;
+
+}
+.navbar-inverse
+{
+  background-color: #caf7e3;
+}
+
+
+/*Contact us*/
+.heading{
+  background-color: #caf7e3;
+  text-align: center;
+    font-size: 3.5rem;
+    margin-top: 2px;
+    padding-top: 0;
+}
+
+/*customerlogin*/
+.guesthead{
+  position: absolute;
+  right: 5px;
+  top: 0px;
+  padding-bottom: 10px
+}
+
+.input-group{
+  margin-top: 100px;
+ padding: 10px;
+  padding: 5px;
+}
+.input-groups{
+  margin-top: 10px;
+ padding: 10px;
+  padding: 5px;
+}
+
+.loginbox{
+  position: relative;
+  left: 50px;
+
+}
+
+.button{
+  position: relative;
+  top: 10px;
+  left: 150px;
+}
+
+/*Payments*/
+
+#whole{
+   height: 100%;
+  padding-top: 50px;
+}
+.text-centering{
+  position: absolute;
+  right: 100px;
+  text-align: center;
+}
+.text-centeri{
+padding-top: 10px;
+  text-align: center;
+}
+
+/*Payment Confirm*/
+.text-centerings{
+  position: absolute;
+  right: 80px;
+  margin-top: 100px;
+  text-align: center;
+}
+.text-centers{
+padding-top: 100px;
+  text-align: center;
+}
